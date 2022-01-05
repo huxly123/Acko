@@ -16,13 +16,9 @@ https://ackoclone-huxly123.vercel.app/
 
 ---
 
-#### Presentation Video: 
-- **[Checkout The Demo Video On Youtube](https://www.linkedin.com/feed/update/urn:li:activity:6850473762471731200/)**
-
----
 
 #### Project Demo: 
-- **[Checkout The Live Project Demo](https://www.youtube.com/watch?v=FVEmW9rnbyA&t=15s)**
+- **[Checkout The Live Project Demo](https://www.youtube.com/watch?v=6h0kGa-9NdI&t=1s)**
 
 
 
